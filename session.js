@@ -46,6 +46,6 @@ module.exports = {
     SUDO: process.env.SUDO ? process.env.SUDO.split(",") : ["94717775628", "94758775628"],
     PORT: process.env.PORT || "8000",
     SESSION_DIR: process.env.SESSION_DIR || "session",
-    FOOTER: process.env.FOOTER || "> QUEEN ANJU XPRO\n> Developed by Mr. Rashmika\n> GitHub Repository: github.com/Mrrashmika/QUEEN_ANJU_xPro\n\ud83c\udf1f Premium Version | Advanced Features | Secure & Reliable \ud83c\udf1f\n\u00a9 2025 QUEEN ANJU XPRO. All rights reserved." 
+    FOOTER: process.env.FOOTER || "> RANU-EXE\n> Developed by Mr. RANU\n> MOVIE ZONE| MOVIE EXPERT| Secure & Reliable \ud83c\udf1f\n\u00a9 2025 RANU-FILMS. All rights reserved." 
   };
   
